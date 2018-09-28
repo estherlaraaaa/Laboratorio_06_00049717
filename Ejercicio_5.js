@@ -1,5 +1,4 @@
-let lista = new Array(1,2,3,4,"hola","adios");
-let tipo = "string";
+
 
 function ArregloTipos(lista,tipo){
     let total = 0;
